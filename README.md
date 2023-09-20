@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [carMechanics](https://carmechanics.netlify.app/)
 
-- 🤝 I’m looking for help with **i wanna be project contributor**
+- 🤝 I’m looking for help with ** react **
 
 - 💬 Ask me about **react, nodejs, mongoDb,expressjs,redux,css,**
 
